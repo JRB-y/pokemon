@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="40" viewBox="0 0 120 40">
+    <defs>
+        <filter id="txltwcdi2a" width="127.3%" height="200%" x="-13.6%" y="-50%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.850980392 0 0 0 0 0.258823529 0 0 0 0 0.337254902 0 0 0 0.7 0"/>
+        </filter>
+        <rect id="53kbhvz2jb" width="110" height="30" x="0" y="0" rx="15"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(5 5)">
+        <use fill="#000" filter="url(#txltwcdi2a)" xlink:href="#53kbhvz2jb"/>
+        <use fill="#D94256" xlink:href="#53kbhvz2jb"/>
+        <text fill="#FFF" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600">
+            <tspan x="45.83" y="19">FIGHT</tspan>
+        </text>
+        <path fill="#FFF" d="M17.69 7c.583 0 1.096.301 1.39.756l.138-.006c.107 0 .212.01.314.03.301-.326.734-.53 1.213-.53.682 0 1.267.412 1.52 1h.008c.117 0 .232.012.343.036.264-.18.584-.286.93-.286.715 0 1.324.454 1.555 1.09.125.042.244.1.354.17.256-.164.562-.26.89-.26C27.26 9 28 9.74 28 10.655V15.669c-.026 3.5-3.15 6.331-7 6.331-3.866 0-7-2.854-7-6.375 0-1.695.726-3.235 1.91-4.377-.01 2.25.044 3.361.165 3.334.254-.058.258-2.17.012-6.335C16.27 7.53 16.917 7 17.691 7z"/>
+    </g>
+</svg>

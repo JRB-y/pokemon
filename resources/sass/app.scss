@@ -1,0 +1,35 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+@import "tailwindcss";
+
+@import "type-colors";
+
+// Main gradient
+.bg-main-pokemon {
+  background: linear-gradient(to left, #51e85e4d, #8de06133, #6fdefa54, #6e94fd36);
+}
+
+.pokemon_font {
+  font-family: Avenir;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+.splash {
+  box-shadow: inset 0 0.5px 0 0 rgba(0, 0, 0, 0.25);
+  background: linear-gradient(to right, #DEEAFA, #DCF5DB 100%);
+}
+
+.content-rounded {
+  border-top-left-radius: 45px;
+  border-top-right-radius: 45px;
+}
+
+.content-picture {
+  margin-top: -5rem;
+}

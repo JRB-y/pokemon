@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="40" viewBox="0 0 120 40">
+    <defs>
+        <filter id="9ybtwfwrva" width="127.3%" height="200%" x="-13.6%" y="-50%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.364705882 0 0 0 0 0.745098039 0 0 0 0 0.384313725 0 0 0 0.7 0"/>
+        </filter>
+        <rect id="8rx4kbnvyb" width="110" height="30" x="0" y="0" rx="15"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(5 5)">
+        <use fill="#000" filter="url(#9ybtwfwrva)" xlink:href="#8rx4kbnvyb"/>
+        <use fill="#5DBE62" xlink:href="#8rx4kbnvyb"/>
+        <text fill="#FFF" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600">
+            <tspan x="43.832" y="19">GRASS</tspan>
+        </text>
+        <path fill="#FFF" d="M28.335 8.728c.693 5.878.243 9.613-1.35 11.207-2.124 2.123-5.418 2.36-7.803.712l1.922-2.358 3.072-.663-2.508-.251 1.594-1.623 1.814-.397-1.435-.425 1.435-2.588-2.04 2.289-.789-1.112.278 1.836-1.421 1.602-.66-2.027v2.696l-1.978 2.441-.138-.132c-2.337-2.338-2.39-6.095-.156-8.495l.156-.161c1.594-1.594 4.93-2.444 10.007-2.55z"/>
+    </g>
+</svg>

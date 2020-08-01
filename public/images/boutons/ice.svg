@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="40" viewBox="0 0 120 40">
+    <defs>
+        <filter id="xmgxhvw4ra" width="127.3%" height="200%" x="-13.6%" y="-50%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.494117647 0 0 0 0 0.831372549 0 0 0 0 0.788235294 0 0 0 0.7 0"/>
+        </filter>
+        <rect id="rw9ciisf6b" width="110" height="30" x="0" y="0" rx="15"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(5 5)">
+        <use fill="#000" filter="url(#xmgxhvw4ra)" xlink:href="#rw9ciisf6b"/>
+        <use fill="#7ED4C9" xlink:href="#rw9ciisf6b"/>
+        <text fill="#FFF" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600">
+            <tspan x="54.056" y="19">ICE</tspan>
+        </text>
+        <g fill="#FFF">
+            <path d="M10.69 0.819L13.092 4.716 10.657 8.416 8.388 4.736z" transform="translate(14 6) rotate(31 10.74 4.617)"/>
+            <path d="M12.682 4.686L14.873 8.678 12.54 12.593 10.533 8.604z" transform="translate(14 6) rotate(89 12.703 8.64)"/>
+            <path d="M4.072 4.686L6.263 8.678 3.93 12.593 1.923 8.604z" transform="translate(14 6) rotate(89 4.093 8.64)"/>
+            <path d="M6.053 0.713L8.456 4.61 6.02 8.309 3.752 4.63z" transform="translate(14 6) rotate(-32 6.104 4.511)"/>
+            <path d="M10.658 8.719L13.061 12.616 10.626 16.316 8.357 12.636z" transform="translate(14 6) rotate(148 10.709 12.518)"/>
+            <path d="M6.052 8.673L8.454 12.57 6.019 16.269 3.751 12.59z" transform="translate(14 6) rotate(-149 6.103 12.471)"/>
+        </g>
+    </g>
+</svg>

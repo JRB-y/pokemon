@@ -1,0 +1,326 @@
+
+.bug-color {
+  background-image: linear-gradient(to right,#afc836,#92bc2c);
+  &--tab-button {
+    box-shadow: 0 0 10px #afc836;
+    background-color: #afc836;
+    color: white !important;
+  }
+  &--text {
+    color: #afc836;
+  }
+  &--bg {
+    background-color: #afc836;
+  }
+  a {
+    color: #afc836;
+  }
+}
+
+.normal-color {
+  background-image: linear-gradient(to right,#a3a49e,#9298a4);
+  &--tab-button {
+    box-shadow: 0 0 10px #a3a49e;
+    background-color: #a3a49e;
+    color: white !important;
+  }
+  &--text {
+    color: #a3a49e;
+  }
+  &--bg {
+    background-color: #a3a49e;
+  }
+  a {
+    color: #a3a49e;
+  }
+}
+
+.dragon-color {
+  background-image: linear-gradient(to right,#0180c7,#0c69c8);
+  &--tab-button {
+    box-shadow: 0 0 10px #0180c7;
+    background-color: #0180c7;
+    color: white !important;
+  }
+  &--text {
+    color: #0180c7;
+  }
+  &--bg {
+    background-color: #0180c7;
+  }
+  a {
+    color: #0180c7;
+  }
+}
+.dark-color {
+  background-image: linear-gradient(to right,#6e7587,#595761);
+  &--tab-button {
+    box-shadow: 0 0 10px #6e7587;
+    background-color: #6e7587;
+    color: white !important;
+  }
+  &--text {
+    color: #6e7587;
+  }
+  &--bg {
+    background-color: #6e7587;
+  }
+  a {
+    color: #6e7587;
+  }
+}
+.fire-color {
+  background-image: linear-gradient(to right,#fbae46,#fb9b51);
+  &--tab-button {
+    box-shadow: 0 0 10px #fbae46;
+    background-color: #fbae46;
+    color: white !important;
+  }
+  &--text {
+    color: #fbae46;
+  }
+  &--bg {
+    background-color: #fbae46;
+  }
+  a {
+    color: #fbae46;
+  }
+}
+.water-color {
+  background-image: linear-gradient(to right,#69b9e3,#559edf);
+  &--tab-button {
+    box-shadow: 0 0 10px #69b9e3;
+    background-color: #69b9e3;
+    color: white !important;
+  }
+  &--text {
+    color: #69b9e3;
+  }
+  &--bg {
+    background-color: #69b9e3;
+  }
+  a {
+    color: #69b9e3;
+  }
+}
+.flying-color {
+  background-image: linear-gradient(to right,#a6c2f2,#90a7da);
+  &--tab-button {
+    box-shadow: 0 0 10px #a6c2f2;
+    background-color: #a6c2f2;
+    color: white !important;
+  }
+  &--text {
+    color: #a6c2f2;
+  }
+  &--bg {
+    background-color: #a6c2f2;
+  }
+  a {
+    color: #a6c2f2;
+  }
+}
+.ghost-color {
+  background-image: linear-gradient(to right,#7773d4,#516aac);
+  &--tab-button {
+    box-shadow: 0 0 10px #7773d4;
+    background-color: #7773d4;
+    color: white !important;
+  }
+  &--text {
+    color: #afc836;
+  }
+  &--bg {
+    background-color: #afc836;
+  }
+  a {
+    color: #afc836;
+  }
+}
+.fairy-color {
+  background-image: linear-gradient(to right,#f3a7e7,#ec8ce5);
+  &--tab-button {
+    box-shadow: 0 0 10px #f3a7e7;
+    background-color: #f3a7e7;
+    color: white !important;
+  }
+  &--text {
+    color: #f3a7e7;
+  }
+  &--bg {
+    background-color: #f3a7e7;
+  }
+  a {
+    color: #f3a7e7;
+  }
+}
+.fighting-color {
+  background-image: linear-gradient(to right,#e74347,#ce4265);
+  &--tab-button {
+    box-shadow: 0 0 10px #e74347;
+    background-color: #e74347;
+    color: white !important;
+  }
+  &--text {
+    color: #e74347;
+  }
+  &--bg {
+    background-color: #e74347;
+  }
+  a {
+    color: #e74347;
+  }
+}
+.grass-color {
+  background-image: linear-gradient(to right,#5ac178,#5fbc51);
+  &--tab-button {
+    box-shadow: 0 0 10px #5ac178;
+    background-color: #5ac178;
+    color: white !important;
+  }
+  &--text {
+    color: #5ac178;
+  }
+  &--bg {
+    background-color: #5ac178;
+  }
+  a {
+    color: #5ac178;
+  }
+}
+.psychic-color {
+  background-image: linear-gradient(to right,#fe9f92,#f66f71);
+  &--tab-button {
+    box-shadow: 0 0 10px #fe9f92;
+    background-color: #fe9f92;
+    color: white !important;
+  }
+  &--text {
+    color: #fe9f92;
+  }
+  &--bg {
+    background-color: #fe9f92;
+  }
+  a {
+    color: #fe9f92;
+  }
+}
+.ground-color {
+  background-image: linear-gradient(to right,#d29463,#dc7545);
+  &--tab-button {
+    box-shadow: 0 0 10px #d29463;
+    background-color: #d29463;
+    color: white !important;
+  }
+  &--text {
+    color: #d29463;
+  }
+  &--bg {
+    background-color: #d29463;
+  }
+  a {
+    color: #d29463;
+  }
+}
+.ice-color {
+  background-image: linear-gradient(to right,#8cddd4,#70ccbd);
+  &--tab-button {
+    box-shadow: 0 0 10px #8cddd4;
+    background-color: #8cddd4;
+    color: white !important;
+  }
+  &--text {
+    color: #8cddd4;
+  }
+  &--bg {
+    background-color: #8cddd4;
+  }
+  a {
+    color: #8cddd4;
+  }
+}
+.ice-color {
+  background-image: linear-gradient(to right,#a3a49e,#9298a4);
+  &--tab-button {
+    box-shadow: 0 0 10px #a3a49e;
+    background-color: #a3a49e;
+    color: white !important;
+  }
+  &--text {
+    color: #a3a49e;
+  }
+  &--bg {
+    background-color: #a3a49e;
+  }
+  a {
+    color: #a3a49e;
+  }
+}
+.poison-color {
+  background-image: linear-gradient(to right,#c261d4,#a864c7);
+  &--tab-button {
+    box-shadow: 0 0 10px #c261d4;
+    background-color: #c261d4;
+    color: white !important;
+  }
+  &--text {
+    color: #c261d4;
+  }
+  &--bg {
+    background-color: #c261d4;
+  }
+  a {
+    color: #c261d4;
+  }
+}
+.rock-color {
+  background-image: linear-gradient(to right,#d7cd90,#c5b489);
+  &--tab-button {
+    box-shadow: 0 0 10px #d7cd90;
+    background-color: #d7cd90;
+    color: white !important;
+  }
+  &--text {
+    color: #d7cd90;
+  }
+  &--bg {
+    background-color: #d7cd90;
+  }
+  a {
+    color: #d7cd90;
+  }
+}
+.electric-color {
+  background-image: linear-gradient(to right,#fbe273,#edd53e);
+  &--tab-button {
+    box-shadow: 0 0 10px #fbe273;
+    background-color: #fbe273;
+    color: white !important;
+  }
+  &--text {
+    color: #fbe273;
+  }
+  &--bg {
+    background-color: #fbe273;
+  }
+  a {
+    color: #fbe273;
+  }
+}
+.steel-color {
+  background-image: linear-gradient(to right,#58a6aa,#52869d);
+  &--tab-button {
+    box-shadow: 0 0 10px #58a6aa;
+    background-color: #58a6aa;
+    color: white !important;
+  }
+  &--text {
+    color: #58a6aa;
+  }
+  &--bg {
+    background-color: #58a6aa;
+  }
+  a {
+    color: #58a6aa;
+  }
+}

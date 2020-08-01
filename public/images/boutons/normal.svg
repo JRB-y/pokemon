@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="40" viewBox="0 0 120 40">
+    <defs>
+        <filter id="cx5olx1nga" width="127.3%" height="200%" x="-13.6%" y="-50%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.603921569 0 0 0 0 0.615686275 0 0 0 0 0.631372549 0 0 0 0.7 0"/>
+        </filter>
+        <rect id="tmfmfjxj1b" width="110" height="30" x="0" y="0" rx="15"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(5 5)">
+        <use fill="#000" filter="url(#cx5olx1nga)" xlink:href="#tmfmfjxj1b"/>
+        <use fill="#9A9DA1" xlink:href="#tmfmfjxj1b"/>
+        <text fill="#FFF" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600">
+            <tspan x="36.944" y="19">NORMAL</tspan>
+        </text>
+        <path fill="#FFF" d="M21 8c3.866 0 7 3.134 7 7s-3.134 7-7 7-7-3.134-7-7 3.134-7 7-7zm0 3c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4z"/>
+    </g>
+</svg>

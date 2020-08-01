@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="40" viewBox="0 0 120 40">
+    <defs>
+        <filter id="qcxt4jfzda" width="127.3%" height="200%" x="-13.6%" y="-50%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.333333333 0 0 0 0 0.588235294 0 0 0 0 0.643137255 0 0 0 0.7 0"/>
+        </filter>
+        <rect id="qamyjj044b" width="110" height="30" x="0" y="0" rx="15"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(5 5)">
+        <use fill="#000" filter="url(#qcxt4jfzda)" xlink:href="#qamyjj044b"/>
+        <use fill="#5596A4" xlink:href="#qamyjj044b"/>
+        <text fill="#FFF" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600">
+            <tspan x="46.166" y="19">STEEL</tspan>
+        </text>
+        <path fill="#FFF" d="M25.077 8c.133 0 .256.07.323.186l3.549 6.13c.067.116.067.259 0 .374l-3.55 6.124c-.066.115-.189.186-.322.186h-7.116c-.132 0-.255-.07-.322-.184l-3.588-6.124c-.068-.116-.068-.26 0-.377l3.588-6.13c.067-.115.19-.185.322-.185zM21.5 11c-1.933 0-3.5 1.567-3.5 3.5s1.567 3.5 3.5 3.5 3.5-1.567 3.5-3.5-1.567-3.5-3.5-3.5z"/>
+    </g>
+</svg>

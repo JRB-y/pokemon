@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="40" viewBox="0 0 120 40">
+    <defs>
+        <filter id="a5kcqh6gia" width="127.3%" height="200%" x="-13.6%" y="-50%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.615686275 0 0 0 0 0.756862745 0 0 0 0 0.188235294 0 0 0 0.7 0"/>
+        </filter>
+        <rect id="tbkbw2v4ib" width="110" height="30" x="0" y="0" rx="15"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(5 5)">
+        <use fill="#000" filter="url(#a5kcqh6gia)" xlink:href="#tbkbw2v4ib"/>
+        <use fill="#9DC130" xlink:href="#tbkbw2v4ib"/>
+        <text fill="#FFF" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600">
+            <tspan x="50.612" y="19">BUG</tspan>
+        </text>
+        <path fill="#FFF" d="M16.3 11.276c.6.74 1.099 1.25 1.496 1.534.396.283 1.015.57 1.857.86.77 1.8 1 3.512.69 5.133-.311 1.621-1.1 3.072-2.367 4.35-2.65-1.55-3.976-3.613-3.976-6.19 0-2.576.767-4.472 2.3-5.687zm9.4 0c1.533 1.215 2.3 3.11 2.3 5.687 0 2.577-1.325 4.64-3.976 6.19-1.267-1.278-2.056-2.729-2.367-4.35-.31-1.621-.08-3.332.69-5.133.842-.29 1.46-.577 1.857-.86.397-.283.896-.795 1.496-1.534zm-1.3-4.14c.338.238.42.706.183 1.045l-1.2 1.714c.438.143.875.325 1.312.546-.876 1.508-2.058 2.262-3.544 2.262-1.487 0-2.759-.703-3.815-2.108.45-.287.908-.518 1.374-.692l-1.303-1.551c-.266-.318-.225-.79.093-1.057.317-.266.79-.225 1.056.093l1.693 2.017c.032.038.06.078.082.12l.298-.021.313-.008c.288 0 .575.016.862.05l.04-.068 1.51-2.157c.238-.34.706-.422 1.045-.184z"/>
+    </g>
+</svg>

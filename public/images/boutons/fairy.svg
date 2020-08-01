@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="40" viewBox="0 0 120 40">
+    <defs>
+        <filter id="6j9z56k7la" width="127.3%" height="200%" x="-13.6%" y="-50%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.937254902 0 0 0 0 0.592156863 0 0 0 0 0.901960784 0 0 0 0.7 0"/>
+        </filter>
+        <rect id="sshydwtc8b" width="110" height="30" x="0" y="0" rx="15"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(5 5)">
+        <use fill="#000" filter="url(#6j9z56k7la)" xlink:href="#sshydwtc8b"/>
+        <use fill="#EF97E6" xlink:href="#sshydwtc8b"/>
+        <text fill="#FFF" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600">
+            <tspan x="46.496" y="19">FAIRY</tspan>
+        </text>
+        <path fill="#FFF" d="M21.616 7.03c.041.022.075.056.097.096l1.883 3.444 2.134-.618c.129-.037.263.037.3.166.013.044.013.092 0 .136l-.631 2.133 3.475 1.9c.117.064.16.212.096.33-.022.04-.056.074-.096.096l-3.444 1.882.6 2.027c.038.129-.035.264-.164.302-.044.013-.092.013-.136 0l-2.076-.602-1.941 3.552c-.064.117-.212.16-.33.096-.04-.022-.074-.056-.096-.096l-1.943-3.552-2.074.602c-.129.037-.263-.037-.3-.166-.013-.044-.013-.091 0-.136l.599-2.027-3.443-1.882c-.117-.064-.16-.212-.096-.33.022-.04.056-.074.096-.096l3.474-1.9-.63-2.133c-.038-.128.035-.263.164-.301.044-.013.092-.013.136 0l2.133.617 1.884-3.444c.064-.117.212-.16.33-.096zm.02 5.038c-.117-.064-.264-.02-.329.097l-.757 1.385-1.385.757c-.04.023-.074.056-.097.097-.064.117-.02.265.097.33l1.385.757.757 1.385c.023.04.056.074.097.096.117.065.265.021.33-.096l.757-1.385 1.385-.758c.04-.022.074-.056.096-.096.065-.118.021-.265-.096-.33l-1.385-.757-.758-1.385c-.022-.04-.056-.074-.096-.097z"/>
+    </g>
+</svg>

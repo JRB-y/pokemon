@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="37" viewBox="0 0 37 37">
+    <defs>
+        <linearGradient id="oy5hh5cqvc" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#70CCBD"/>
+            <stop offset="100%" stop-color="#8CDDD4"/>
+        </linearGradient>
+        <filter id="ky6f00eeoa" width="200.7%" height="200.6%" x="-50.4%" y="-50.3%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.494117647 0 0 0 0 0.831372549 0 0 0 0 0.788235294 0 0 0 0.7 0"/>
+        </filter>
+        <rect id="8qgc9bsdfb" width="26.8" height="26.837" x="0" y="0" rx="13.4"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(4.907 4.762)">
+        <use fill="#000" filter="url(#ky6f00eeoa)" xlink:href="#8qgc9bsdfb"/>
+        <use fill="url(#oy5hh5cqvc)" xlink:href="#8qgc9bsdfb"/>
+        <g fill="#FFF">
+            <path d="M9.547 0.734L11.696 4.22 9.522 7.527 7.493 4.235z" transform="translate(5.807 5.815) rotate(31 9.595 4.13)"/>
+            <path d="M11.329 4.197L13.29 7.763 11.203 11.26 9.407 7.697z" transform="translate(5.807 5.815) rotate(89 11.348 7.728)"/>
+            <path d="M3.637 4.197L5.598 7.763 3.511 11.26 1.715 7.697z" transform="translate(5.807 5.815) rotate(89 3.656 7.728)"/>
+            <path d="M5.41 0.639L7.554 4.123 5.376 7.432 3.351 4.143z" transform="translate(5.807 5.815) rotate(-32 5.453 4.036)"/>
+            <path d="M9.524 7.801L11.668 11.285 9.49 14.594 7.465 11.305z" transform="translate(5.807 5.815) rotate(148 9.567 11.198)"/>
+            <path d="M5.404 7.76L7.553 11.246 5.379 14.553 3.35 11.261z" transform="translate(5.807 5.815) rotate(-149 5.452 11.156)"/>
+        </g>
+    </g>
+</svg>

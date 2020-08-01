@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="40" viewBox="0 0 120 40">
+    <defs>
+        <filter id="pw75wtmcva" width="127.3%" height="200%" x="-13.6%" y="-50%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.411764706 0 0 0 0 0.439215686 0 0 0 0 0.77254902 0 0 0 0.7 0"/>
+        </filter>
+        <rect id="ip5mennsdb" width="110" height="30" x="0" y="0" rx="15"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(5 5)">
+        <use fill="#000" filter="url(#pw75wtmcva)" xlink:href="#ip5mennsdb"/>
+        <use fill="#6970C5" xlink:href="#ip5mennsdb"/>
+        <text fill="#FFF" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600">
+            <tspan x="42.5" y="19">GHOST</tspan>
+        </text>
+        <path fill="#FFF" d="M21 7c3.866 0 7 3.07 7 6.858 0 1.761-.678 3.368-1.792 4.582-.6.654 1.617.92 1.124 1.595-.27.368-1.728.839-3.243.917-1.263.064-2.709.064-3.2 0C17.056 20.447 14 17.645 14 13.858 14 10.07 17.134 7 21 7zm-1.66 6c-.521 0-.946-.412-.964-.928-.327.184-.548.53-.548.929 0 .591.49 1.071 1.094 1.071.604 0 1.094-.48 1.094-1.071h-.677zm4.065-.929l.001-.035c0 .533-.432.965-.964.965h-.676c0 .591.49 1.071 1.093 1.071.604 0 1.094-.48 1.094-1.071 0-.398-.22-.744-.548-.93z"/>
+    </g>
+</svg>

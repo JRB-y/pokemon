@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="36" viewBox="0 0 37 36">
+    <defs>
+        <linearGradient id="ueuebmqaxc" x1="50%" x2="50%" y1="0%" y2="98.359%">
+            <stop offset="0%" stop-color="#EC8CE5"/>
+            <stop offset="100%" stop-color="#F3A7E7"/>
+        </linearGradient>
+        <filter id="xsesg21rwa" width="200.7%" height="200.6%" x="-50.4%" y="-50.3%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.949019608 0 0 0 0 0.580392157 0 0 0 0 0.91372549 0 0 0 0.7 0"/>
+        </filter>
+        <rect id="vt82noavpb" width="26.8" height="26.837" x="0" y="0" rx="13.4"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(4.853 4.673)">
+        <use fill="#000" filter="url(#xsesg21rwa)" xlink:href="#vt82noavpb"/>
+        <use fill="url(#ueuebmqaxc)" xlink:href="#vt82noavpb"/>
+        <path fill="#FFF" d="M13.504 6.76c.036.02.066.05.086.086l1.683 3.08 1.905-.552c.115-.033.236.033.27.148.01.04.01.082-.001.122l-.564 1.907 3.105 1.7c.105.058.143.19.086.295-.02.036-.05.066-.086.086l-3.077 1.685.536 1.813c.034.114-.032.235-.147.269-.04.012-.082.012-.122 0l-1.853-.538-1.735 3.177c-.057.105-.189.144-.294.086-.036-.02-.066-.05-.086-.086l-1.736-3.177-1.852.538c-.115.034-.236-.033-.27-.148-.01-.04-.01-.082.001-.121l.535-1.813-3.076-1.685c-.105-.057-.143-.19-.086-.294.02-.037.05-.066.086-.086l3.104-1.701-.563-1.907c-.034-.115.032-.236.147-.27.04-.012.082-.012.122 0l1.904.553 1.684-3.081c.057-.105.189-.144.294-.086zm.018 4.507c-.105-.057-.237-.019-.294.086l-.677 1.239-1.237.678c-.037.02-.067.05-.086.086-.058.105-.02.237.086.294l1.237.678.677 1.239c.02.036.05.066.086.086.105.058.237.019.294-.086l.677-1.239 1.238-.678c.036-.02.066-.05.086-.086.057-.105.019-.237-.086-.294l-1.238-.678-.677-1.239c-.02-.036-.05-.066-.086-.086z"/>
+    </g>
+</svg>

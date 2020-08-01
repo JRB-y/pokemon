@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="40" viewBox="0 0 120 40">
+    <defs>
+        <filter id="enav11io6a" width="127.3%" height="200%" x="-13.6%" y="-50%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.843137255 0 0 0 0 0.521568627 0 0 0 0 0.333333333 0 0 0 0.7 0"/>
+        </filter>
+        <rect id="8aviientbb" width="110" height="30" x="0" y="0" rx="15"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(5 5)">
+        <use fill="#000" filter="url(#enav11io6a)" xlink:href="#8aviientbb"/>
+        <use fill="#D78555" xlink:href="#8aviientbb"/>
+        <text fill="#FFF" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600">
+            <tspan x="36.392" y="19">GROUND</tspan>
+        </text>
+        <path fill="#FFF" d="M19.029 12.287c.023 0 .046.004.068.012.105.038.159.153.121.258l-2.648 7.31c-.029.08-.104.133-.189.133h-2.183c-.024 0-.048-.004-.07-.013-.105-.039-.158-.155-.119-.259l2.739-7.31c.03-.079.104-.13.188-.13zM25.122 9c.086 0 .162.054.19.135l3.68 10.555c.007.021.011.043.011.066 0 .111-.09.201-.201.201H17.306c-.005 0-.01 0-.015-.002-.023-.008-.035-.034-.027-.057l3.81-10.764c.028-.08.104-.134.19-.134z"/>
+    </g>
+</svg>

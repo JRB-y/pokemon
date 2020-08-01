@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="40" viewBox="0 0 120 40">
+    <defs>
+        <filter id="jigllnbjra" width="127.3%" height="200%" x="-13.6%" y="-50%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.929411765 0 0 0 0 0.835294118 0 0 0 0 0.247058824 0 0 0 0.7 0"/>
+        </filter>
+        <rect id="yaxa4wolzb" width="110" height="30" x="0" y="0" rx="15"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(5 5)">
+        <use fill="#000" filter="url(#jigllnbjra)" xlink:href="#yaxa4wolzb"/>
+        <use fill="#EDD53F" xlink:href="#yaxa4wolzb"/>
+        <text fill="#FFF" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600">
+            <tspan x="35.942" y="19">ELECTRIC</tspan>
+        </text>
+        <path fill="#FFF" d="M16.379 7h4.707c.193 0 .363.126.42.31l2.318 7.487c.071.232-.058.478-.29.55-.043.013-.086.02-.13.02h-2.882c-.121 0-.22.098-.22.22 0 .02.003.04.009.06l1.443 5.08c.066.233-.07.476-.303.543-.175.05-.363-.014-.472-.159l-6.45-8.577c-.145-.194-.106-.47.088-.616.076-.057.169-.088.264-.088h2.243c.121 0 .22-.098.22-.22 0-.024-.004-.049-.012-.072l-1.369-3.954c-.08-.23.042-.48.272-.56.046-.016.095-.024.144-.024z"/>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="40" viewBox="0 0 120 40">
+    <defs>
+        <filter id="pjfapse46a" width="127.3%" height="200%" x="-13.6%" y="-50%" filterUnits="objectBoundingBox">
+            <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.607843137 0 0 0 0 0.705882353 0 0 0 0 0.909803922 0 0 0 0.7 0"/>
+        </filter>
+        <rect id="tw9bnvrmtb" width="110" height="30" x="0" y="0" rx="15"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(5 5)">
+        <use fill="#000" filter="url(#pjfapse46a)" xlink:href="#tw9bnvrmtb"/>
+        <use fill="#9BB4E8" xlink:href="#tw9bnvrmtb"/>
+        <text fill="#FFF" font-family="Avenir-Heavy, Avenir" font-size="12" font-weight="600">
+            <tspan x="42.05" y="19">FLYING</tspan>
+        </text>
+        <path fill="#FFF" d="M19.236 20c2.197 0 4.078-1.221 4.855-2.952.01-.022-3.118.812-3.018.518.044-.132 1.961-.832 3.358-1.65.535-.312.926-.8 1.173-1.463-.902.438-1.58.712-2.037.823-1.378.336-2.59.3-2.59.265 0-.076 2.014-.458 4.813-2.164.878-.535 1.436-1.263 1.674-2.185-.965.575-1.74.958-2.323 1.147-2.075.676-3.969.879-3.969.788 0-.196 1.667-.654 3.434-1.51.919-.446 1.714-1.027 2.636-1.674C28.248 9.237 28.834 8.256 29 7c-.992.64-1.73 1.066-2.214 1.278-2.997 1.316-5.643 2.006-7.55 2.155-2.88.225-5.236 2.235-5.236 4.843C14 17.886 16.344 20 19.236 20z"/>
+    </g>
+</svg>
